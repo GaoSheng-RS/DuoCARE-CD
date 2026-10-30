@@ -1,3 +1,6 @@
+# This netword is really workable, use codex or claude code to run it.
+
+
 # DuoCARE-CD
 
 Architectural change detection at World Cultural Heritage sites with two complementary detectors,
